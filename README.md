@@ -41,9 +41,9 @@ Predict whether a passenger survived the Titanic disaster based on features like
 
 Feel free to connect with me:
 
-- **LinkedIn:** [Your LinkedIn link]
-- **GitHub:** [Your GitHub profile link]
-- **Email:** [Your email]
+- **LinkedIn:** [https://www.linkedin.com/in/prince-sharma-57a748360/]
+- **GitHub:** [prince7711sharma]
+- **Email:** [ptince1234360@gmail.com]
 
 ---
 
